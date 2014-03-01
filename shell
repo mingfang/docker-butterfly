@@ -1,0 +1,1 @@
+docker run -p 57575:57575 -rm=true -i -t butterfly /bin/bash
